@@ -1,0 +1,6 @@
+/shelf/
+/.idea/
+/target/
+*.iml
+/node_modules/
+/cypress/e2e/my-tasks
