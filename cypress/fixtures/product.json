@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Nomad Rugged Case for Pixel Buds A-Series",
+    "attribute": "nomad_leather_case",
+    "colors": ["Blue Leather (Google Store exclusive)"],
+    "expectedValueInCart": "1"
+  },
+  {
+    "name": "AIAIAI Tracks 2.0 Headphones",
+    "attribute": "tracks_usb_c_headphones",
+    "colors": ["Black","Grey"],
+    "expectedValueInCart": "1"
+  },
+  {
+    "name": "ZAGG Gear4® Denali Case for Pixel 7 Pro*",
+    "attribute": "zagg_gear4_denali_case_pixel_7_pro",
+    "colors": ["Black","Gray","Green"],
+    "expectedValueInCart": "1"
+  }
+]
